@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RougueLike", "Assembly-CSharp.csproj", "{6040519C-AFD7-8191-F37D-025E8F8AC255}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RougueLike", "Assembly-CSharp-Editor.csproj", "{F675BF63-8E85-EA36-C2D7-7456C77C4AC2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6040519C-AFD7-8191-F37D-025E8F8AC255}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6040519C-AFD7-8191-F37D-025E8F8AC255}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6040519C-AFD7-8191-F37D-025E8F8AC255}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6040519C-AFD7-8191-F37D-025E8F8AC255}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F675BF63-8E85-EA36-C2D7-7456C77C4AC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F675BF63-8E85-EA36-C2D7-7456C77C4AC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F675BF63-8E85-EA36-C2D7-7456C77C4AC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F675BF63-8E85-EA36-C2D7-7456C77C4AC2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
