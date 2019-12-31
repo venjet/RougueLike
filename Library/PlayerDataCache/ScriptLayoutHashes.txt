@@ -1,6 +1,6 @@
 Android
 PlayerPath?
-E:/Dropbox/RougueLike/RougueLike.apk
+C:/Users/wenjie.sun/Desktop/RougueLike.apk
 SceneListBegin?
 Assets/Completed/Scenes/Main.unity
 SceneListEnd?
